@@ -1,0 +1,4 @@
+# Trying Out Tailwindcss
+
+## Resources
+* [Tailwind CSS Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=4wGmylafgM4)
